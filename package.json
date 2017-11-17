@@ -4,7 +4,6 @@
   "description": "Scorenami client.",
   "author": "Relay Labs Inc.",
   "license": "ISC",
-  "proxy": "http://localhost:8000",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
